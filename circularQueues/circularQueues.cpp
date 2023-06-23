@@ -63,5 +63,5 @@ public:
 		}
 	}
 
-	void
+	void display()
 };
