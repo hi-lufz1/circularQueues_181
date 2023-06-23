@@ -81,7 +81,9 @@ public:
 				FRONT_position++;
 			}
 			cout << endl;
-		
+		}
+		else {
+			//jika Front_position > Rear_position, iterasi dari FRONT hingga akhir array
 		}
 	}
 };
